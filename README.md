@@ -1,6 +1,6 @@
 # ICSE-2013-TestEvol
 
-This repository contains information related to the tool TestEvol presented in International Conference of Software Engineering, 2013. The tool was originally presented in this paper - TestEvol: a tool for analyzing test-suite evolution (link: http://dl.acm.org/citation.cfm?id=2486990).
+This repository contains information related to the tool TestEvol presented in International Conference of Software Engineering, 2013. The tool was originally presented in [this paper] (link: http://dl.acm.org/citation.cfm?id=2486990).
 
 This repository <i>is not</i> the original repository for this tool. Here are some links to the original project:
 
