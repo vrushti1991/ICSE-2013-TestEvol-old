@@ -8,11 +8,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for TestEvol you will find:
 * :x: Source Code (unavailable)
-* :white_check_mark: The original tool (available)
-* :white_check_mark: A slightly modified version of the tool Amrita Das got working (available)
+* :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-TestEvol/blob/master/testevol-original.war) (available)
+* :white_check_mark: [A slightly modified version of the tool](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-TestEvol/blob/master/testevol.war) [Amrita Das](https://github.com/AmritaDas) got working (available)
 
-This repository was constructed by Amrita Das under the supervision of Emerson Murphy-Hill. Thanks to Dr. Alessandro Orso, Dr. Leandro Sales Pinto, and Dr. Saurabh Sinha for their help in establishing this repository. 
-
-
-Amrita Das: https://github.com/AmritaDas
-Emerson Murphy-Hill: https://github.com/CaptainEmerson
+This repository was constructed by [Amrita Das] (https://github.com/AmritaDas) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Alessandro Orso, Dr. Leandro Sales Pinto, and Dr. Saurabh Sinha for their help in establishing this repository. 
